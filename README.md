@@ -8,7 +8,7 @@ An Oracle Forms 11g compatible set of example Oracle Forms.
 
 ## Simple Oracle Form
 
-_File: [QAFE_FORM1.fmb](QAFE_FORM1.fmb)_
+_File: [QAFE_FORM1.fmb](QAFE_FORM1.fmb?raw=true)_
 
 ### Features
 
@@ -22,7 +22,7 @@ _File: [QAFE_FORM1.fmb](QAFE_FORM1.fmb)_
 
 ## Medium Oracle Form
 
-_File: [QAFE_FORM2.fmb](QAFE_FORM2.fmb)_
+_File: [QAFE_FORM2.fmb](QAFE_FORM2.fmb?raw=true)_
 
 ### Features
 
@@ -35,7 +35,7 @@ _File: [QAFE_FORM2.fmb](QAFE_FORM2.fmb)_
 
 ## Complex Oracle Form
 
-_File: [QAFE_FORM3.fmb](QAFE_FORM3.fmb)_
+_File: [QAFE_FORM3.fmb](QAFE_FORM3.fmb?raw=true)_
 
 ### Features
 
