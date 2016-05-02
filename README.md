@@ -52,4 +52,4 @@ _File: [QAFE_FORM3.fmb](QAFE_FORM3.fmb?raw=true)_
 - Post-Query using a database View Object
 - Event handling with using Triggers and Program Units
 - Usage of `SHOW_WINDOW` and `HIDE_WINDOW`
-- Usage of `SET_ITEM_PROPERTY`
+- Usage of `GET_ITEM_PROPERTY` and `SET_ITEM_PROPERTY`
