@@ -27,8 +27,9 @@ _File: [QAFE_FORM2.fmb](QAFE_FORM2.fmb?raw=true)_
 ### Features
 
 - Three windows, having:
-  - A data grid
   - A data grid with overflow (CRUD)
+    - Including LOV for zipcode
+  - A data grid
   - A Master-Detail relation
 - Enter query mode (only on the master of the main window and data grid)
 - Create, Read, Update, and Delete (CRUD) functionality
