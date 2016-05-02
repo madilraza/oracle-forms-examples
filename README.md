@@ -4,7 +4,9 @@ An Oracle Forms 11g compatible set of example Oracle Forms.
 
 ## Get Started
 
-// **TODO** _Add database and corresponding explanation_
+_File: [student-db-script.sql](script/student-db-script.sql?raw=true)_
+
+The database script for the student schema is available in the scripts-folder. Just run the script in a tool like SQL Plus, SQL Developer or Toad. The schema contains a simple structure to link students to courses.
 
 ## Simple Oracle Form
 
@@ -45,6 +47,9 @@ _File: [QAFE_FORM3.fmb](QAFE_FORM3.fmb?raw=true)_
   - Date fields
   - Number fields
 - Validation in PL/SQL
+  - Simple validation (input bigger than certain value)
+  - Complex validation (check in database, if value exists)
 - Post-Query using a database View Object
 - Event handling with using Triggers and Program Units
-- Usage of `SHOW_WINDOW`
+- Usage of `SHOW_WINDOW` and `HIDE_WINDOW`
+- Usage of `SET_ITEM_PROPERTY`
